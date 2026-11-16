@@ -3,3 +3,4 @@
 | Date | Slug | Primary keyword | Audience |
 |---|---|---|---|
 | 2026-11-04 | transaction-coordinator-for-wholesalers | transaction coordinator for wholesalers | Wholesalers |
+| 2026-11-16 | fix-and-flip-closing-checklist | fix and flip closing checklist | Fix-and-flip investors |
