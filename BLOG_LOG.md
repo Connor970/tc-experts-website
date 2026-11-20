@@ -4,3 +4,4 @@
 |---|---|---|---|
 | 2026-11-04 | transaction-coordinator-for-wholesalers | transaction coordinator for wholesalers | Wholesalers |
 | 2026-11-13 | seller-financing-closing-process | seller financing closing process | Creative-finance investors (seller finance) |
+| 2026-11-18 | investor-friendly-title-company | investor friendly title company | Wholesalers |
